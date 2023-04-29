@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "pkkfi",
+      "restaurant": "ghjytrw",
+      "image": "https://thecozycook.com/wp-content/uploads/2023/02/Homemade-Ramen-f.jpg",
+      "rating": "5",
+      "comment": "gagffsg",
+      "id": 6
     }
   ]
 }
