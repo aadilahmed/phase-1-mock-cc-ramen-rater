@@ -64,7 +64,7 @@ function renderRamen(ramen) {
             document.querySelector('#rating-display').innerText = ramen.rating;
             document.querySelector('#comment-display').innerText = ramen.comment;
             document.querySelector("#edit-ramen").dataset.id = ramen.id;
-        })
+        }) 
     })
 
     document.querySelector("#ramen-menu").appendChild(img);
